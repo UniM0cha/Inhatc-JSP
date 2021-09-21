@@ -3,3 +3,5 @@ INDEX VERSION 1.131
 /Test001/src
 /Users/solstice/Desktop/Github/JSP_Practice/Workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4080876772.index
 /JSPTest-001/src
+/Users/solstice/Desktop/Github/JSP_Practice/Workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2016815233.index
+/Test004/src/main/java
