@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/solstice/Desktop/Github/JSP_Practice/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+973832787.index
+2748331590.index
+3957627667.index
+1776930525.index
+1951120404.index
+243785472.index
+2958188883.index
+4080876772.index
