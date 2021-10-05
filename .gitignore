@@ -1,2 +1,6 @@
 
-.DS_Store
+*.DS_Store
+Eclipse.app/
+Tomcat 9.0/
+jdk/
+Workspace/.metadata/
