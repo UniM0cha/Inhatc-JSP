@@ -1,6 +1,10 @@
-INDEX VERSION 1.4+/Users/solstice/Desktop/Github/JSP_Practice/Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-973832787.index
-1951120404.index
-1247901404.index
-4287685570.index
-1030112842.index
+INDEX VERSION 1.4+C:\Users\solst\Desktop\Github\JSP_Practice\Workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+532271161.index
+1757339823.index
+1025067691.index
+1221932454.index
+664792848.index
+1236210237.index
+423750676.index
+280200744.index
+416551968.index
