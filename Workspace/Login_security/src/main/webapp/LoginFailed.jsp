@@ -6,7 +6,9 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body style="text-align: center">
+
+사용자ID <%= request.getParameter("_id") %> 는 로그인에 실패하였습니다.
 
 </body>
 </html>
