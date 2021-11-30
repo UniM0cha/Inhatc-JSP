@@ -24,6 +24,7 @@
 	SecureRandom csprng = SecureRandom.getInstance("SHA1PRNG");
 	byte[] ivBlock = new byte[cipher.getBlockSize()];
 	csprng.nextBytes(ivBlock);
+	
 	// 텍스트로 저장하기 위해 Base64로 변환
 	String stringIvBlock = Base64.getEncoder().encodeToString(ivBlock);
 

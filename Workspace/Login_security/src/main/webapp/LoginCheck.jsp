@@ -74,7 +74,7 @@ cipher.init(Cipher.DECRYPT_MODE, keySpec, ivSpec);      		// 복호화 모듈, �
 
 // Base64 형식의 pw를 바이트 배열로 변환
 byte[] cipheredPw = Base64.getDecoder().decode(stringCipheredPw);
-byte[] clearPw = cipher.doFinal(cipheredPw);			// 복호화 진행
+byte[] clearPw = cipher.doFinal(cipheredPw);					// 복호화 진행
 
 // 문자열로 변환
 String finalPw = new String(clearPw);

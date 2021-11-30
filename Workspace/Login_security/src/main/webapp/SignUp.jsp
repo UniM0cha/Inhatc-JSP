@@ -15,7 +15,7 @@
 		<p>
 		Password : <input type="password" name="pw">
 		<p>
-		<input type="submit" value="Sign in">
+		<input type="submit" value="Sign up">
 	</form>
 	<p>
 	<!-- Sign in 링크를 클릭하면 회원가입 페이지로 이동 -->
